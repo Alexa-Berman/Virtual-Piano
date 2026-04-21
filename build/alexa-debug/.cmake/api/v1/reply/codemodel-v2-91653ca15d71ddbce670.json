@@ -1,0 +1,302 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGL::GL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGL__GL-Debug-ed5853c4409a04d9e263.json",
+					"name" : "OpenGL::GL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGL::GLU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGL__GLU-Debug-d7ac57462a70d5a75c26.json",
+					"name" : "OpenGL::GLU",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-Debug-66977ec4c3ae362fee0e.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glad::glad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glad__glad-Debug-0e4118843487d9734caf.json",
+					"name" : "glad::glad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glfw::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glfw-Debug-388279cae10655c849b2.json",
+					"name" : "glfw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glm::glm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glm__glm-Debug-4e416e8989a8616c3d61.json",
+					"name" : "glm::glm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glm::glm-header-only::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glm__glm-header-only-Debug-dde61cc9d9d121cd8a76.json",
+					"name" : "glm::glm-header-only",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-9ad1a58d4644cf6543fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-src-Debug-c61fb49069c3d1aa76de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src"
+				},
+				{
+					"build" : "src/app",
+					"jsonFile" : "directory-src.app-Debug-1883429f8b5fe83f75b2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/app",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/whale",
+					"childIndexes" : 
+					[
+						4,
+						10
+					],
+					"jsonFile" : "directory-src.whale-Debug-fc1c4fa23431621030f0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/whale",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "src/whale/core",
+					"childIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-src.whale.core-Debug-549e31db79a09a13d476.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "src/whale/core"
+				},
+				{
+					"build" : "src/whale/core/camera",
+					"jsonFile" : "directory-src.whale.core.camera-Debug-2239da2e3ed8e355f9ea.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/whale/core/camera"
+				},
+				{
+					"build" : "src/whale/core/framework",
+					"jsonFile" : "directory-src.whale.core.framework-Debug-aed7d9c93ac9f382dd80.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/whale/core/framework"
+				},
+				{
+					"build" : "src/whale/core/graphics",
+					"jsonFile" : "directory-src.whale.core.graphics-Debug-f60b516f9ce4b7d83c6b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/whale/core/graphics"
+				},
+				{
+					"build" : "src/whale/core/procedural",
+					"jsonFile" : "directory-src.whale.core.procedural-Debug-efc6626027d7340babef.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/whale/core/procedural"
+				},
+				{
+					"build" : "src/whale/core/terrain",
+					"jsonFile" : "directory-src.whale.core.terrain-Debug-8f14e4611237655fefa8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/whale/core/terrain"
+				},
+				{
+					"build" : "src/whale/platform",
+					"childIndexes" : 
+					[
+						11
+					],
+					"jsonFile" : "directory-src.whale.platform-Debug-d144d7ba3617e23e3bd4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "src/whale/platform"
+				},
+				{
+					"build" : "src/whale/platform/opengl",
+					"jsonFile" : "directory-src.whale.platform.opengl-Debug-ef4384ab9467c9939280.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 0,
+					"source" : "src/whale/platform/opengl"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"name" : "M4OEP",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "M4OEP::@ff93792cf40911dae1b8",
+					"jsonFile" : "target-M4OEP-Debug-0fd252cfbc1549031b77.json",
+					"name" : "M4OEP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "whale::@51866fe06df26b407be7",
+					"jsonFile" : "target-whale-Debug-eebf8ce62c99618b434d.json",
+					"name" : "whale",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug",
+		"source" : "/Users/alexaberman/Documents/Virtual-Piano"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

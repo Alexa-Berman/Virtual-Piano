@@ -1,0 +1,5 @@
+add_subdirectory(camera)
+add_subdirectory(framework)
+add_subdirectory(graphics)
+add_subdirectory(procedural)
+add_subdirectory(terrain)

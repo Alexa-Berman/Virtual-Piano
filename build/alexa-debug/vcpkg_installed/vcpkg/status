@@ -1,0 +1,241 @@
+Package: vcpkg-cmake-config
+Version: 2024-05-23
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 54f40655b01eb4c0c7f137a30c54b0b61b9ed050d0968330ba5c88880535eaf0
+Status: install ok installed
+
+Package: vcpkg-cmake
+Version: 2024-04-23
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 942ce16c266ef529372337b31aab4307ace0275f57691aff7d171b2915a01bd9
+Status: install ok installed
+
+Package: egl-registry
+Version: 2025-05-27
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 14b7c1b2b414cfc2f4494bb239f304d7fdd4672622d85d2bd9f55661d4569f23
+Description: EGL API and Extension Registry
+Status: install ok installed
+
+Package: opengl-registry
+Version: 2025-10-23
+Depends: egl-registry
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 4812d21ba773ddcaf85b454c85489c697d17dad03f9d7a47398d5e28661d0ea4
+Description: OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry
+Status: install ok installed
+
+Package: glad
+Version: 0.1.36
+Depends: egl-registry, opengl-registry, vcpkg-cmake, vcpkg-cmake-config
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: bb01314eea55e3a7ec0530525f2e41209c45804e4dbebcac5b3609eaf155d44c
+Description: Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+Default-Features: loader
+Status: install ok installed
+
+Package: glad
+Feature: extensions
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Enables all extensions.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-10
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 1.0.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-11
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 1.1.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-12
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 1.2.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-13
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 1.3.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-14
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 1.4.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-15
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 1.5.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-20
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 2.0.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-21
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 2.1.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-30
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 3.0.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-31
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 3.1.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-32
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 3.2.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-33
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 3.3.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-40
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 4.0.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-41
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 4.1.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-42
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 4.2.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-43
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 4.3.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-44
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 4.4.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-45
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 4.5.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-46
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 4.6.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-latest
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Imports extensions from latest OpenGL API specification version.
+Status: install ok installed
+
+Package: glad
+Feature: loader
+Architecture: arm64-osx
+Multi-Arch: same
+Description: Generate loader logic.
+Status: install ok installed
+
+Package: glfw3
+Version: 3.4
+Port-Version: 1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 263145ce1103b3e1f8f58d05f8a6b862b4a5d43f4bf32ec5fcfe3a146866a496
+Description: GLFW is a free, Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc.
+Status: install ok installed
+
+Package: glm
+Version: 1.0.3
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 8d9c258c879cb91ab53210e957e39b47bfd10620653ab7dff3d2b39ee95ceeee
+Description: OpenGL Mathematics (GLM)
+Status: install ok installed
+
+Package: miniaudio
+Version: 0.11.24
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 88fa427a6fbb5e3a2da8151bceab7462eb0b3dba77475d4110725687b1d2c07a
+Description: Audio playback and capture library written in C, in a single source file
+Status: install ok installed
+
+Package: opengl
+Version: 2022-12-04
+Port-Version: 3
+Depends: opengl-registry
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 76a2154e190c6f7678fb692fc5cc340116ebdad4c04aadb06d2eb894fb54dc68
+Description: Open Graphics Library (OpenGL)[3][4][5] is a cross-language, cross-platform application programming interface (API) for rendering 2D and 3D vector graphics.
+Status: install ok installed
+
+Package: stb
+Version: 2024-07-29
+Port-Version: 1
+Architecture: arm64-osx
+Multi-Arch: same
+Abi: 4b5b70e678b2f3fe9360bae0a5c620879ca22cfd431dae6a14518375bdaea8ad
+Description: public domain header-only libraries
+Status: install ok installed
+

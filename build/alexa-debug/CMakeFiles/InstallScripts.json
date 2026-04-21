@@ -1,0 +1,18 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/cmake_install.cmake",
+		"/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/cmake_install.cmake",
+		"/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/app/cmake_install.cmake",
+		"/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale/cmake_install.cmake",
+		"/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale/core/cmake_install.cmake",
+		"/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale/core/camera/cmake_install.cmake",
+		"/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale/core/framework/cmake_install.cmake",
+		"/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale/core/graphics/cmake_install.cmake",
+		"/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale/core/procedural/cmake_install.cmake",
+		"/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale/core/terrain/cmake_install.cmake",
+		"/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale/platform/cmake_install.cmake",
+		"/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale/platform/opengl/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

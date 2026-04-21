@@ -1,0 +1,128 @@
+[
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/app",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/app -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/M4OEP.dir/keyboard.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/app/keyboard.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/app/keyboard.cpp",
+  "output": "src/app/CMakeFiles/M4OEP.dir/keyboard.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/app",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/app -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/M4OEP.dir/main.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/app/main.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/app/main.cpp",
+  "output": "src/app/CMakeFiles/M4OEP.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/app",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/app -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/M4OEP.dir/main_viewport.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/app/main_viewport.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/app/main_viewport.cpp",
+  "output": "src/app/CMakeFiles/M4OEP.dir/main_viewport.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/core/camera/basic_camera.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera/basic_camera.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera/basic_camera.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/core/camera/basic_camera.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/core/camera/controllable_camera.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera/controllable_camera.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera/controllable_camera.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/core/camera/controllable_camera.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/core/camera/freecam_controller.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera/freecam_controller.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera/freecam_controller.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/core/camera/freecam_controller.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/core/framework/application.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework/application.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework/application.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/core/framework/application.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/core/framework/input_manager.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework/input_manager.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework/input_manager.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/core/framework/input_manager.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/core/graphics/mesh.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics/mesh.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics/mesh.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/core/graphics/mesh.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/core/graphics/shader_manager.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics/shader_manager.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics/shader_manager.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/core/graphics/shader_manager.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/core/graphics/stb_impl.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics/stb_impl.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics/stb_impl.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/core/graphics/stb_impl.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/core/graphics/texture_manager.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics/texture_manager.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics/texture_manager.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/core/graphics/texture_manager.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/core/procedural/uv_sphere.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural/uv_sphere.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural/uv_sphere.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/core/procedural/uv_sphere.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/core/terrain/basic_terrain.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain/basic_terrain.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain/basic_terrain.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/core/terrain/basic_terrain.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/core/terrain/triangle_list.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain/triangle_list.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain/triangle_list.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/core/terrain/triangle_list.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/platform/opengl/application_opengl.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl/application_opengl.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl/application_opengl.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/platform/opengl/application_opengl.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/platform/opengl/basic_shader_opengl.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl/basic_shader_opengl.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl/basic_shader_opengl.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/platform/opengl/basic_shader_opengl.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/platform/opengl/compute_shader_opengl.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl/compute_shader_opengl.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl/compute_shader_opengl.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/platform/opengl/compute_shader_opengl.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/platform/opengl/fragment_shader_opengl.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl/fragment_shader_opengl.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl/fragment_shader_opengl.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/platform/opengl/fragment_shader_opengl.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/platform/opengl/shader_program_opengl.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl/shader_program_opengl.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl/shader_program_opengl.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/platform/opengl/shader_program_opengl.cpp.o"
+},
+{
+  "directory": "/Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/src/whale",
+  "command": "/usr/bin/c++ -DPLATFORM_OPENGL=\\\"true\\\" -DPROJECT_ROOT=\\\"/Users/alexaberman/Documents/Virtual-Piano\\\" -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/camera -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/framework -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/graphics -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/procedural -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/core/terrain -I/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl -isystem /Users/alexaberman/Documents/Virtual-Piano/build/alexa-debug/vcpkg_installed/arm64-osx/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++2b -arch arm64 -o CMakeFiles/whale.dir/platform/opengl/vertex_shader_opengl.cpp.o -c /Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl/vertex_shader_opengl.cpp",
+  "file": "/Users/alexaberman/Documents/Virtual-Piano/src/whale/platform/opengl/vertex_shader_opengl.cpp",
+  "output": "src/whale/CMakeFiles/whale.dir/platform/opengl/vertex_shader_opengl.cpp.o"
+}
+]
